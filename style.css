@@ -1,0 +1,30 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body{
+    background-color: #046B33;
+}
+
+h1 {
+    color: goldenrod;
+    font-size: 80px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.btn-start {
+    color: #016f32;
+    background-color: goldenrod;
+    width: 150px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
